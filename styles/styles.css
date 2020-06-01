@@ -8,7 +8,7 @@ body {
 }
 /* Style the header */
 .header {
-    background-color:green;
+    background-color:aqua;
     text-align: center;
     padding: 20px;
 }
@@ -30,7 +30,7 @@ body {
     float: left;
     width: 300px;
     padding: 15px;
-    background-color: yellow;
+    background-color: aqua;
 }
 /* Clear floats after the columns */
 .row:after {
@@ -39,7 +39,7 @@ body {
     clear: both;
 }
 .footer {
-    background-color: yellow;
+    background-color: aqua;
     text-align: center;
     padding: 10px;
 }
