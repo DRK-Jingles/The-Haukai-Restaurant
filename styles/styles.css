@@ -15,13 +15,13 @@ body {
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: black;
+    background-color: lightskyblue;
 }
 /* Style the topnav links */
 .topnav a {
     float: left;
     display: block;
-    color: white;
+    color: blue;
     text-align: center;
     padding: 14px 16px;
 }
