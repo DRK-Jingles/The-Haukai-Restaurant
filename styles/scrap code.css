@@ -1,0 +1,54 @@
+/* Universal box sizing */
+* {
+    box-sizing: border-box;
+}
+/* Set the size of the body */
+body {
+  width: 100%;
+}
+h1 {
+    font-size: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* Style the header */
+.header {
+    background-color:aqua;
+    text-align: center;
+    padding: 20px;
+}
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: lightskyblue;
+}
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+}
+/* Create equal columns that float next to each other */
+.column {
+    float: left;
+    text-align: center;
+    width: 33%;
+    padding: 15px;
+    background-color: aqua;
+}
+.column a {
+    float: center;
+    color: Blue;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.footer {
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+}
