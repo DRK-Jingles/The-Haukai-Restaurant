@@ -2,8 +2,12 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Haukai Restaurant | Contact Us</title>
     <link rel="stylesheet" href="styles/styles.css">
+    <script src="js/locationMap.js"></script>
+    <script src="js/BasicScripts.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKC4dgmzFpV9WEHjCZ82XhEkKhkhuIPZQ&callback=initMap"></script>
   </head>
   <body>
     <!-- Here is our main header that is used across all the pages of our website -->
@@ -21,32 +25,32 @@
     </nav>
     <!-- Here is our page's main content -->
     <main>
-        <h2>Contact Us</h2>
+      <h2>Contact Us</h2>
       <div class="row">
         <div class="column">
           <h3>Phone</h3>
           <p>09 401 4019</p>
         </div>
         <div class="column">
-          <h3>Email</h3>
-          <p>HaukaiRestuarantContact@email.com</p>
+          <h3>Physical Address</h3>
+            <p>157 Kerikeri Road,
+            Kerikeri, Bay of Islands<p>
         </div>
       </div>
       <div class="row">
           <div class="column">
-              <h3>Physical Address</h3>
-              <p>1 Island Street,
-                Kerikeri, Bay of Islands<p>
+            <h3>Email</h3>
+            <p>HaukaiRestuarantContact@email.com</p>
           </div>
           <div class="column">
-              <h3>Map</h3>
-              <p>Map will be here</p>
+            <h3>Map</h3>
+            <div id='map' class='small'></div>
           </div>
       </div>
     </main>
     <!-- And here is our main footer that is used across all the pages of our website -->
     <footer class="footer">
-      <p></p>
+      <p><img src="images/NZ-flag.png" alt="NZ flag image" class="footImg">Come and Dine with us when your next in town!<img src="images/Tino-flag.png" alt="Tino rangatiratanga flag image" class="footImg">
     </footer>
   </body>
 </html>
