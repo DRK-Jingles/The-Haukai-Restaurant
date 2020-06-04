@@ -70,3 +70,7 @@ D)  Optimise page loading times: 2 seconds @ 2G network, others optimised as muc
     Chrome Dev-tools has been updated and the preset throttling speeds have been removed.
     I have created a preset 2G network with the following stats: 450 kb/s download, 150 kb/s upload, 300ms RTT.
     This is based on the old 'Good 2G' preset with these exact values.
+
+<!--created by:Adam Hearps
+student id: 5001160
+For: openpolytech, BIT607, assignment 2.-->
