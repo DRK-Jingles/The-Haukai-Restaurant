@@ -1,6 +1,8 @@
 # The Haukai Restaurant
 contains html,styles,scripts,images etc for The Haukai Restaurant website.
 
+Pages info:
+please note: rosters and resources pages are still under construction and are not necessary for assignment purposes and do not reflect finished product.
 
 Maps info:
 address 1 island street kerikeri did not exist. so address was changed to 157 kerikeri road to satisfy map conditions
@@ -12,7 +14,7 @@ IMAGE                   LOCATION
 fritter.jpg             https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Onion_Indian_fritter.jpg/640px-Onion_Indian_fritter.jpg
 bread.jpg               https://www.pxfuel.com/en/free-photo-ibayx
 soft-drink.png          https://freesvg.org/soft-drink-icon-vector-pictogram
-beer.png                http://www.publicdomainfiles.com/show_file.php?id=13494513612646
+beer.png                http://www.publicdomainfiles.com/show_file.php?id=13494514811992
 bottle.png              https://svgsilh.com/image/312731.html
 banoffee-pie.png        https://www.flickr.com/photos/glenmaclarty/2060066991
 mini-pav                https://www.flickr.com/photos/avlxyz/19205343
