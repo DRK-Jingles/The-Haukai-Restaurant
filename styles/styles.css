@@ -7,16 +7,17 @@
 main{
     float: middle;
     text-align: center;
+    max-width: 100vmax;
 }
 /* Style the header */
 .header {
-    background-color:aqua;
+    background-image: url("../images/bay-panorama.jpg");
     text-align: center;
-    font-size: 200%;
+    font-size: 250%;
     padding: 20px;
 }
-.bigImg {
-    max-width: 33%;
+h1 {
+    background-color: transparent;
 }
 .footImg{
     width: 3pc;
@@ -62,6 +63,7 @@ main{
     text-align: center;
     padding: 10px;
 }
+/*map stuff*/
 #map * {
     background-color: initial;
 }
