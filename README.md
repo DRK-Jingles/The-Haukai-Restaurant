@@ -2,7 +2,15 @@
 contains html,styles,scripts,images etc for The Haukai Restaurant website.
 
 Pages info:
+
 please note: rosters and resources pages are still under construction and are not necessary for assignment purposes and do not reflect finished product.
+
+Essential components:
+GOOGLE CALENDER         located on about us page (aboutUs.html), and also on rosters page (rosters.html)
+GOOGLE FORM             located on reservations page (reservations.html)
+GOOGLE MAP              located on contact us page (contactUs.html) small version of map, also located on about us page (aboutUs.html) large version of map.
+RESTAURANT IMAGE        located on main page (index.html)
+ILLUSTRATIVE IMAGES     located on menu page (menu.html), and also on main page (index.html)
 
 Maps info:
 address 1 island street kerikeri did not exist. so address was changed to 157 kerikeri road to satisfy map conditions
@@ -11,6 +19,7 @@ Images info: ALL sourced from google images -> free to reuse.
 
 IMAGE                   LOCATION
 
+lotr.jpg                https://www.pikrepo.com/fyorr/lord-of-the-rings-hobbit-house/download/800x600
 fritter.jpg             https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Onion_Indian_fritter.jpg/640px-Onion_Indian_fritter.jpg
 bread.jpg               https://www.pxfuel.com/en/free-photo-ibayx
 soft-drink.png          https://freesvg.org/soft-drink-icon-vector-pictogram
