@@ -7,14 +7,17 @@
 main{
     float: middle;
     text-align: center;
-    max-width: 100vmax;
+    max-width: 100%;
+    font-size: 2vw;
+    padding: 0.5vw;
 }
 /* Style the header */
 .header {
     background-image: url("../images/bay-panorama.jpg");
     text-align: center;
-    font-size: 250%;
-    padding: 20px;
+    font-size: 3.5vw;
+    padding: 0.5vw;
+    max-width: 100%;
 }
 h1 {
     background-color: transparent;
@@ -39,6 +42,8 @@ h1 {
 .topnav {
     overflow: hidden;
     background-color: aquamarine;
+    font-size: 2vw;
+    max-width: 100%;
     display: flex;
     justify-content: space-around;
 }
@@ -49,7 +54,7 @@ h1 {
     background-color: inherit;
     color: black;
     text-align: center;
-    padding: 14px ;
+    padding: 1.5vw 1vw;
 }
 .topnav a:hover {
     background-color: black;
@@ -63,10 +68,12 @@ h1 {
     text-align: center;
     float: left;
     width: 50%;
+    font-size: 2vw;
 }
 .third {
     text-align: center;
     float: left;
+    font-size: 2vw;
     width: 33%;
 }
 /* Clear floats after the columns */
@@ -75,10 +82,16 @@ h1 {
     display: table;
     clear: both;
 }
+@media screen and (max-width:600px) {
+    .column {
+        width: 100%;
+    }
+}
 .footer {
     background-color: aqua;
     text-align: center;
-    padding: 10px;
+    font-size: 2vw;
+    padding: o.5vw;
 }
 /*map stuff*/
 #map * {
