@@ -15,22 +15,22 @@ NZ-flag.jpg sourced from google images, free to reuse. located at https://en.wik
 Part1
 A,B) See https://drk-jingles.github.io/The-Haukai-Restaurant.io for github hosted website or alternatively see "The-Haukai-Restaurant" folder attached for all html,css,js files.
 
-C)  Accessability Guidelines
+C)  Accessability Guidelines            
 
 
 
-D)  See attached file "Privacy Statment for Haukai Restaurant", alternatively follow link in footer to find a copy of privacy statement.
+D)  See attached file "Privacy Statment for Haukai Restaurant", alternatively follow link in footer to find a copy of privacy statement.          
 
-E)  - Security issues that website designers should consider:
-    - How HTTp caching and Content Delivery Networks could further improve responsiveness:
+E)  - Security issues that website designers should consider:       
+    - How HTTp caching and Content Delivery Networks could further improve responsiveness:      
 
 
 Part 2
 A)  See https://drk-jingles.github.io/The-Haukai-Restaurant.io for github hosted website.
     For screenshots of showing the use of GitHub see folder "Git-Hub screenshots".
 
-B)  Responsive design principles
+B)  Responsive design principles              
 
 C)  See attached image "Trailing Spaces extension" inside submission folder.
 
-D)  Optimise page loading times: 2 seconds @ 2G network, others optimised as much as possible.
+D)  Optimise page loading times: 2 seconds @ 2G network, others optimised as much as possible.               
