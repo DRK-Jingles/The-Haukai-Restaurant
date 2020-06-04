@@ -8,7 +8,7 @@ please note: rosters and resources pages are still under construction and are no
 Essential components:
 GOOGLE CALENDER         located on about us page (aboutUs.html), and also on rosters page (rosters.html)
 GOOGLE FORM             located on reservations page (reservations.html)
-GOOGLE MAP              located on contact us page (contactUs.html) small version of map, also located on about us page (aboutUs.html) large version of map.
+GOOGLE MAP              located on contact us page (contact.html) small version of map, also located on about us page (aboutUs.html) large version of map.
 RESTAURANT IMAGE        located on main page (index.html)
 ILLUSTRATIVE IMAGES     located on menu page (menu.html), and also on main page (index.html)
 
@@ -43,7 +43,7 @@ cooking-chef.jpg        https://www.wallpaperflare.com/person-serving-pasta-chef
 tino-flag.jpg           https://en.wikipedia.org/wiki/Tino_rangatiratanga#/media/File:Tino_Rangatiratanga_Maori_sovereignty_movement_flag.svg
 NZ-flag.jpg             https://en.wikipedia.org/wiki/Flag_of_New_Zealand#/media/File:Flag_of_New_Zealand.svg
 
-
+                            ASSIGNMENT 2 BIT607
 Part1
 A,B) See https://drk-jingles.github.io/The-Haukai-Restaurant.io for github hosted website or alternatively see "The-Haukai-Restaurant" folder attached for all html,css,js files.
 
@@ -70,6 +70,7 @@ D)  Optimise page loading times: 2 seconds @ 2G network, others optimised as muc
     Chrome Dev-tools has been updated and the preset throttling speeds have been removed.
     I have created a preset 2G network with the following stats: 450 kb/s download, 150 kb/s upload, 300ms RTT.
     This is based on the old 'Good 2G' preset with these exact values.
+    The images associated with these tests can be found in the folder "Network Tests".
 
 <!--created by:Adam Hearps
 student id: 5001160

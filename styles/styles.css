@@ -14,13 +14,16 @@ main{
 /* Style the header */
 .header {
     background-image: url("../images/bay-panorama.jpg");
+    background-size: cover;
     text-align: center;
     font-size: 3.5vw;
     padding: 0.5vw;
-    max-width: 100%;
 }
 h1 {
     background-color: transparent;
+}
+.mainImg {
+    width: 100%;
 }
 .menuImg {
     width: 18pc;
@@ -60,9 +63,6 @@ h1 {
     background-color: black;
     color: aquamarine;
 }
-/*.topnav a:visited {              unlock me and try at the end!!!
-    color: red;
-}*/
 /* Create two equal columns that float next to each other */
 .column {
     text-align: center;
@@ -108,7 +108,9 @@ h1 {
     background-color: grey;
     display: block;
 }
-
+.calender {
+    width: 65%;
+}
 /*created by:Adam Hearps
 student id: 5001160
 For: openpolytech, BIT607, assignment 2.*/
