@@ -45,15 +45,15 @@ NZ-flag.jpg             https://en.wikipedia.org/wiki/Flag_of_New_Zealand#/media
 
                             ASSIGNMENT 2 BIT607
 Part1
-A,B) See https://drk-jingles.github.io/The-Haukai-Restaurant.io for github hosted website or alternatively see "The-Haukai-Restaurant" folder attached for all html,css,js files.
+A,B)    See https://drk-jingles.github.io/The-Haukai-Restaurant.io for github hosted website or alternatively see "The-Haukai-Restaurant" folder attached for all html,css,js files.
+        All validation screenshots can be found in the folder "validation screenshots".
 
-C)  Accessability Guidelines            
-
+C)      By using headings i was able to distribute and arrange content within pages. 
 
 
 D)  See attached file "Privacy Statment for Haukai Restaurant", alternatively follow link in footer to find a copy of privacy statement.
 
-E)  - Security issues that website designers should consider:       
+E)  - Security issues that website designers should consider:       security issues with this website include access to roster systems and potentially client information through the google add ons
     - How HTTp caching and Content Delivery Networks could further improve responsiveness:      
 
 
@@ -61,7 +61,8 @@ Part 2
 A)  See https://drk-jingles.github.io/The-Haukai-Restaurant.io for github hosted website.
     For screenshots of showing the use of GitHub see folder "Git-Hub screenshots".
 
-B)  Responsive design principles              
+B)  Mobile frindly test screenshots can be found in folder "mobile-friendly tests".
+    by adjusting all the text and image sizes to work in relation to the viewport, i was able to create a mobile friendly site
 
 C)  See attached image "Trailing Spaces extension" inside submission folder.
 
@@ -70,7 +71,9 @@ D)  Optimise page loading times: 2 seconds @ 2G network, others optimised as muc
     Chrome Dev-tools has been updated and the preset throttling speeds have been removed.
     I have created a preset 2G network with the following stats: 450 kb/s download, 150 kb/s upload, 300ms RTT.
     This is based on the old 'Good 2G' preset with these exact values.
+
     The images associated with these tests can be found in the folder "Network Tests".
+    I found my pages loaded within the necessary load times so did not adjust anything, i could gain more speed by properly compressing my images to conserve space and load times.
 
 <!--created by:Adam Hearps
 student id: 5001160
